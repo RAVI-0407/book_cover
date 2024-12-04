@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-# Date:
+# Date:09/11/2024
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -29,7 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
-'''
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -102,7 +102,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-'''
+~~~
 
 # OUTPUT:
 
